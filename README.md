@@ -1,4 +1,11 @@
 # mac
 
-pip install pyftpdlib
-python -m pyftpdlib
+pip3 install pyftpdlib
+
+
+python3 -m pyftpdlib
+
+Command (⌘) + Leertaste
+
+
+python3 --version
